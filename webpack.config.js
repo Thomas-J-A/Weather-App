@@ -40,5 +40,5 @@ module.exports = {
     }),
     new CleanWebpackPlugin(),
   ],
-  // devtool: 'eval-cheap-source-map',
+  devtool: 'eval-cheap-source-map',
 };
